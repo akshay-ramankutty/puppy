@@ -1,5 +1,5 @@
 package dog
 
-func bark() (string) {
+func Bark() string {
 	return "WOOF!"
 }
